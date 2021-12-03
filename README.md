@@ -1,7 +1,7 @@
 # UCSC_Project_2021_
 Related URL:https://github.com/TVithanage/UCSC_Project_2021_.git
 
-It is provided project in two different repositories as RMS_BackendProject_2021 and RMS_FrontendProject_2021
+It is provided project in two different repositories as RMS_BackendProject_2021 and RMS_FrontendProject_2021. Frontend project contains all the pages which are interact with the users. Then backend project contains all the backend processes related .ts files and other related files.
 
 ### RMA_FrontendProject_2021
 Related URL:
@@ -40,6 +40,8 @@ Project is created with:
 * TypeORM
 * Boostrap latest version 3/5
 * Node.js 12.0
+* Chart.js library
+* jQuerry library
 * NPM 
 * Google chrome and Fire fox for launch the project.
 	
