@@ -57,7 +57,7 @@ $ ng serve
 Then it provides the local url that project is runnig:
 http://localhost:3000 as default. 
 
-To run this RMA_FrontendProject_2021, install it locally using npm:
+To run this RMA_FrontendProject_2021, install it locally using below commands. All the modules have been structured separately with their module names. Then it is easy to edit and update code according to the need.
 
 ```
 $ cd ../RecruitmentManagement/Frontend
